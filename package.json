@@ -1,6 +1,6 @@
 {
   "name": "d3-color",
-  "version": "1.4.1",
+  "version": "1.4.1.1",
   "description": "Color spaces! RGB, HSL, Cubehelix, Lab and HCL (Lch).",
   "keywords": [
     "d3",
@@ -25,7 +25,7 @@
   "module": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/d3/d3-color.git"
+    "url": "https://github.com/SweetDealer/d3-color.git"
   },
   "files": [
     "dist/**/*.js",
